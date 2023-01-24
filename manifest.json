@@ -1,12 +1,13 @@
 {
-  "name": "Miglior for Hacker News",
+  "name": "Miglior for Hacker News (Redux)",
   "short_name": "mHN",
-  "version": "1.7.2.0",
-  "description": "Enhance your experience on Hacker News",
+  "version": "1.7.2.1",
+  "description": "Enhance your experience on Hacker News. Redux version.",
+  "homepage_url": "https://github.com/Onurtag/HNES/",
   "manifest_version": 2,
   "browser_specific_settings": {
     "gecko": {
-      "id": "{498bbd41-6b7d-4871-a8a6-94c4a630c5c0}"
+      "id": "{498bbd41-6b7d-4871-a8a6-94c4a630cccc}"
      }
    },
   "background": {
